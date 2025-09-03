@@ -20,7 +20,7 @@ An intelligent chatbot for initial candidate screening. It collects essential de
 - JSON file (simulated DB) for storage
 
 
-## 🕹️ Usage
+##  Usage
 1. Fill your **Candidate Details** in the form.
 2. Use the chat box to interact (e.g., *"Ready to start"*).
 3. Click **Generate 3–5 Technical Questions** to see tailored questions for your stack.
@@ -43,7 +43,7 @@ An intelligent chatbot for initial candidate screening. It collects essential de
 See `prompts.py` for the exact templates.
 
 
-## 🧩 Architecture
+##  Architecture
 ```
 app.py          # Streamlit UI and chat loop
 chatbot.py      # LLM client (OpenAI + Mock), routing, question generator
@@ -55,7 +55,7 @@ storage/
   candidates.json (created at first save)
 ```
 
-## 🧪 Example
+##  Example
 Tech Stack: `Python, Django, PostgreSQL`  
 Sample Questions:
 - Explain how Django ORM translates queries to SQL with PostgreSQL.
@@ -66,7 +66,7 @@ Sample Questions:
 
 
 
-## 🧭 Evaluation Mapping
+##  Evaluation Mapping
 - **Functionality**: All required flows implemented, end keywords supported.
 - **Technical**: Clear modular code, OpenAI + Mock paths, context retention.
 - **Problem-Solving**: Targeted prompts; dictionary-backed fallback.
