@@ -1,0 +1,58 @@
+{
+  "sessions": [
+    {
+      "id": "sess_1756913493",
+      "created_at": 1756913493,
+      "candidate": {
+        "full_name": "sesha",
+        "email": "anon_973dfe463e",
+        "phone": "anon_e01f1a87bc",
+        "years_experience": 3.0,
+        "desired_position": "Backend Developer",
+        "location": "chennai",
+        "tech_stack": "python, machine learning, AI"
+      },
+      "chat": [
+        {
+          "role": "assistant",
+          "content": "Hello! I'm TalentScout, your hiring assistant. I'll ask a few quick questions and then tailor some technical questions based on your tech stack. You can type **bye/exit/quit** anytime to finish. To begin, could you confirm your **Full Name** and **Tech Stack** above, then send me a message here when ready."
+        },
+        {
+          "role": "user",
+          "content": "Can you ask me some technical questions?"
+        },
+        {
+          "role": "assistant",
+          "content": "I can help capture the candidate details first. Could you please confirm the tech stack for the candidate?"
+        }
+      ]
+    },
+    {
+      "id": "sess_1756914133",
+      "created_at": 1756914133,
+      "candidate": {
+        "full_name": "Seshajalam G",
+        "email": "anon_973dfe463e",
+        "phone": "anon_2922b9dbe9",
+        "years_experience": 3.0,
+        "desired_position": "Backend Developer",
+        "location": "chennai",
+        "tech_stack": "Python, Machine Learning, AI, NLP, LLM"
+      },
+      "chat": [
+        {
+          "role": "assistant",
+          "content": "Hello! I'm TalentScout, your hiring assistant. I'll ask a few quick questions and then tailor some technical questions based on your tech stack. You can type **bye/exit/quit** anytime to finish. To begin, could you confirm your **Full Name** and **Tech Stack** above, then send me a message here when ready."
+        },
+        {
+          "role": "user",
+          "content": "I'm ready for the interview"
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you, Seshajalam G. I have noted your details: 3 years of experience, seeking a Backend Developer position in Chennai with a tech stack of Python, Machine Learning, AI, NLP, and LLM. Can you confirm if you are available for an interview this week?"
+        }
+      ]
+    }
+  ]
+}
